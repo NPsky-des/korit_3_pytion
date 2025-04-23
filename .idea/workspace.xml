@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa994771-fe42-4bb0-87b5-61360a8e857d" name="변경" comment="" />
+    <list default="true" id="fa994771-fe42-4bb0-87b5-61360a8e857d" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2w47ql7tzj4XzvdYMxxwnzg7iHS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -34,12 +36,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.collection.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.if.executor": "Run",
     "Python.list.executor": "Run",
     "Python.print.executor": "Run",
+    "Python.set.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.type.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "indent.rainbow.settings.IrConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
